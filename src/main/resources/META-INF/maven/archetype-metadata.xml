@@ -49,12 +49,6 @@
             </includes>
         </fileSet>
         <fileSet filtered="true" encoding="UTF-8">
-            <directory>src/main/bash</directory>
-            <includes>
-                <include>**/*</include>
-            </includes>
-        </fileSet>
-        <fileSet filtered="true" encoding="UTF-8">
             <directory>docs</directory>
             <includes>
                 <include>**/*</include>
