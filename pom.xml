@@ -7,6 +7,15 @@
     <version>1.1-SNAPSHOT</version>
     <packaging>maven-archetype</packaging>
 
+    <name>JTango maven archetype</name>
+    <description>This is a custom archetype to generate skeleton JTango projects. JTango is a Java implementation of Tango controls - open source SCADA framework.</description>
+    <url>https://github.com/tango-controls/jtango-maven-archetype</url>
+
+
+    <issueManagement>
+        <system>GitHub</system>
+        <url>https://github.com/tango-controls/jtango-maven-archetype/issues</url>
+    </issueManagement>
 
     <licenses>
         <license>
