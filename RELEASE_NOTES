@@ -1,3 +1,8 @@
+1.4
+===
+
+  Fix JTango dependency version is not substituted during archetype generation
+
 1.3
 ===
 

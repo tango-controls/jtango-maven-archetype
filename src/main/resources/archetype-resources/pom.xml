@@ -54,7 +54,7 @@
         <dependency>
             <groupId>org.tango-controls</groupId>
             <artifactId>JTango</artifactId>
-            <version>${JTango.version}</version>
+            <version>${jtango-version}</version>
             <type>pom</type>
         </dependency>
         <dependency>
