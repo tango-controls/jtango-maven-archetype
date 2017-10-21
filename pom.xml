@@ -4,7 +4,7 @@
 
     <groupId>org.tango-controls</groupId>
     <artifactId>jtango-maven-archetype</artifactId>
-    <version>1.3</version>
+    <version>1.4-SNAPSHOT</version>
     <packaging>maven-archetype</packaging>
 
     <name>JTango maven archetype</name>
@@ -46,7 +46,7 @@
         <connection>scm:git:git@github.com:tango-controls/jtango-maven-archetype.git</connection>
         <developerConnection>scm:git:git@github.com:tango-controls/jtango-maven-archetype.git</developerConnection>
         <url>https://github.com/tango-controls/jtango-maven-archetype</url>
-      <tag>jtango-maven-archetype-1.3</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <distributionManagement>
