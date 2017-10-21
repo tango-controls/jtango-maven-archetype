@@ -104,15 +104,4 @@
             <!-- TODO setup release plugin, see how to -->
         </plugins>
     </build>
-
-    <repositories>
-        <repository>
-            <snapshots>
-                <enabled>false</enabled>
-            </snapshots>
-            <id>bintray-tango-controls-maven</id>
-            <name>bintray</name>
-            <url>http://dl.bintray.com/tango-controls/maven</url>
-        </repository>
-    </repositories>
 </project>
