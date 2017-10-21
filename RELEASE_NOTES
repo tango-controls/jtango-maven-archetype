@@ -1,3 +1,14 @@
+1.3
+===
+
+  Fix JTango dependency type (now pom)
+  Force user to specify JTango version
+
+1.2
+===
+
+  Use JTango from maven central
+
 1.1
 ===
 

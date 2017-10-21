@@ -13,6 +13,7 @@
         <requiredProperty key="platform"/>
         <requiredProperty key="family"/>
         <requiredProperty key="bus"/>
+        <requiredProperty key="JTango.version"/>
     </requiredProperties>
     <fileSets>
         <fileSet filtered="true" encoding="UTF-8">

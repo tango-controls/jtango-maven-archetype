@@ -54,7 +54,8 @@
         <dependency>
             <groupId>org.tango-controls</groupId>
             <artifactId>JTango</artifactId>
-            <version>RELEASE</version>
+            <version>${JTango.version}</version>
+            <type>pom</type>
         </dependency>
         <dependency>
             <groupId>ch.qos.logback</groupId>
