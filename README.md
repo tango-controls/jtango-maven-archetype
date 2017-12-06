@@ -9,7 +9,7 @@
 Maven archetype for JTango
 
 ```bash
-$> mvn archetype:generate \
+$> mvn archetype:generate -U \
            -DarchetypeGroupId=org.tango-controls \
            -DarchetypeArtifactId=jtango-maven-archetype \
            -DarchetypeVersion=1.4
