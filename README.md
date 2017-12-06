@@ -12,5 +12,5 @@ Maven archetype for JTango
 $> mvn archetype:generate \
            -DarchetypeGroupId=org.tango-controls \
            -DarchetypeArtifactId=jtango-maven-archetype \
-           -DarchetypeVersion=1.1
+           -DarchetypeVersion=1.4
 ```
